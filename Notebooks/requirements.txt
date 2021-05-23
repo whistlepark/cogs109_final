@@ -1,0 +1,10 @@
+kaggle
+numpy
+geopandas
+matplotlib
+jedi
+plotly
+geojson
+chart_studio
+ipywidgets>=7.5
+notebook>=5.3
