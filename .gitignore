@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Kaggle api
+kaggle.json
+
+# .zip
+*.zip
+*.csv
+
 # C extensions
 *.so
 
